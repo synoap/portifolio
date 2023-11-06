@@ -14,7 +14,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/465px-Postgresql_elephant.svg.png" title="Postgres"></code>
 </div>
 <br>
-  <h2 align="left">Languages I would like to learn to profound and develop my skills.</h2>
+  <h2 align="left">Some languages I would like to learn to profounding and develop my skills.</h2>
 <p align="left">
  <div align="left">
   <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a>
