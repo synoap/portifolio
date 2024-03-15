@@ -1,11 +1,12 @@
 import React from 'react'
 
+import { urbanist } from './fonts'
+
 function Home (): JSX.Element {
   return (
-    <div>
-      <h1 className="flex flex-col border-b-2 text-3xl font-bold text-blue-500">
-        Hello World!
-      </h1>
+    <div className="container mx-auto flex h-screen flex-col items-center justify-center">
+      <p className="text-2xl">Este Portifolio está</p>
+      <h1 className={`text-5xl ${urbanist.className}`}>Em desenvolvimento</h1>
     </div>
   )
 }

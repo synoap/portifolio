@@ -36,6 +36,8 @@
     "tailwindcss" // Sort tailwindcss classes to be organized by categories.
   ],
   "rules": {
+    "space-before-function-paren": "off",
+    "@typescript-eslint/space-before-function-paren": "error",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/react-in-jsx-scope": "off",
@@ -45,7 +47,9 @@
     "unused-imports/no-unused-imports": "error",
     "unused-imports/no-unused-vars": [
       "error",
-      { "argsIgnorePattern": "^_" }
+      {
+        "argsIgnorePattern": "^_"
+      }
     ],
     "import-helpers/order-imports": [
       "warn",
