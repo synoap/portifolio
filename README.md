@@ -17,14 +17,12 @@
   <h2 align="left">Some languages I would like to learn to profounding and develop my skills.</h2>
 <p align="left">
  <div align="left">
-  <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"></a>
-  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title="dotnet"></a>
   <a><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Golang"></a>
  </div>
  <br>
  <br>
 <div align="left">
  
-![Developer in pixel art](https://camo.githubusercontent.com/deb3dfb62bf6c11cdb41b1a4ddf18cd2f73fc01b2b05b6f17955ca6b4e31cb5a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f32326232323238373630323532332e356462643239303831353631642e676966)
+![Developer in pixel art](https://i.ibb.co/yh2LWb2/pixel-jeff-mario.gif)
   
 </div>
